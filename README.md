@@ -125,6 +125,7 @@ project/
 - **שם** - [אימייל](mailto:email@example.com)
 - **אתר** - [example.com](https://example.com)
 
----
+---    
 
-פותח על ידי [שם החברה/המפתח] © 2024
+פותח על ידי (https://github.com/CodePhantomAI)] © 2024 
+**https://codephantomai.netlify.app**
